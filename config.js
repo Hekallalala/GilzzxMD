@@ -47,38 +47,38 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6282334703987'
-global.nomorown = '6285730794089'
-global.nomorownv2 = '+6281357580863'
-global.nomorown1 = '6285730794089'
-global.nomorown2 = '6281357580863'
+global.nomorbot = '6283842500051'
+global.nomorown = '6281270975930'
+global.nomorownv2 = '+6281270975930'
+global.nomorown1 = '6281270975930'
+global.nomorown2 = '6281270975930'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = 'Gilzz Botz Official'//nama group kalian
-global.author = 'GilzzXD-Md'
-global.namebot = 'GilzzBotz-MD Official'
-global.wm = 'GilzzBotz-MD'
+global.gcname = 'Hyuga Bot Official'//nama group kalian
+global.author = 'Hyuga-Md'
+global.namebot = 'HyugaBotz-MD Official'
+global.wm = 'Hyuga-MD'
 global.media = 'https://telegra.ph/file/69ad7404bc26311790b83.jpg'
 global.watermark = wm
 global.status = 'public'
 global.danied = '          ⚠️ 𝐀𝐜𝐜𝐞𝐬 𝐃𝐚𝐧𝐢𝐞𝐝 ⚠️  '
-global.wame = 'https://wa.me/6285730794089'
+global.wame = 'https://wa.me/6281270975930'
 global.alllink = `https://youtu.be/lN-0jnuK2Ko`
-global.wm2 = ' 𝐆𝐢𝐥𝐳𝐳 𝐌𝐃 '
+global.wm2 = ' 𝑯𝒚𝒖𝒈𝒂 𝐌𝐃 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ TIME: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝐆𝐢𝐥𝐳𝐳 𝐌𝐃`
+global.titlebot = `𝑯𝒚𝒖𝒈𝒂 𝐌𝐃`
 global.stickpack = 'Created by: '
-global.stickauth = `© GilzzBotz-MD Official`
+global.stickauth = `© HyugaBotz-MD Official`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Gilzz-Md'
-global.nameown2 = 'Gilzz-MD Official'
+global.nameown1= 'PATER HEKAL'
+global.nameown2 = 'HEKAL Official'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/gilzzx'
@@ -87,8 +87,8 @@ global.lynk = 'https://lynk.id/gilzzx'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.sig = 'https://instagram.com/wannzx_133'//Instagram klian
 global.sgh = 'https://github.com/gilzzbotz' //github
-global.tautanwa = 'https://wa.me/wa.me/6285730794089'
-global.sgc = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy' //group whatsapp
+global.tautanwa = 'https://wa.me/wa.me/6281270975930'
+global.sgc = 'https://chat.whatsapp.com/KQ2i0ATxZTU3bI4TYhV2Jn' //group whatsapp
 global.syt = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg' //youtube
 global.sytv = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'//link video yt
 
@@ -103,7 +103,7 @@ global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
+global.ListHargaSewa = '├ 5 Hari IDR 5.000\n├ 7 Hari IDR 7.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
